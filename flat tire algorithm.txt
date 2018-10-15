@@ -6,17 +6,19 @@
 6	If your car has automatic gear shift to P else shift it to 1
 7	check the safety  an open the door
 8	get out close the door take the key
-9	
-10	
-11	Look for the damaged tire.
-12	Check that spare tire is in good condition and verify is the same that damaged tire.
-13	8 look in the card the kid for change the tire.
-14	9 under the car near of tire exist one metal structure to place the jack, put the jack there.
-15	10 Carefully lift the car a little verifying  that jack is properly positioned.
-16	10 loosen the bolts of the tire.
-17	11 finish lifting the car for complete.
-	12 get out the bolts and the damage tire.
-	13 Insert the new tire.
-	14 put the bolts and adjust them.
-	15 Lower the jack completely.
-	16 verify and reset all the bolts.
+9	Look for the damaged tire.
+10	Check that spare tire is in good condition and verify is the same that damaged tire.
+11	look in the card the kid for change the tire.
+12	under the car near of tire exist one metal structure to place the jack, put the jack there.
+13	Carefully lift the car a little verifying  that jack is properly positioned.
+14	loosen the bolts of the tire.
+15	finish lifting the car for complete.
+16	get out the bolts and the damage tire.
+17	Insert the new tire.
+18	put the bolts and adjust them.
+19	Lower the jack completely.
+20	verify and reset all the bolts.
+21	more
+22	more 
+23	more
+24	more
